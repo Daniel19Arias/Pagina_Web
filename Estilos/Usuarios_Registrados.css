@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url(../Imagenes/v882-kul-55-a.jpg);
+}
+h2.InicioSesion{
+    color:  rgb(239, 57, 255);
+}
+form{
+    margin-left: 30%;
+    margin-right: 30%;
+    border:solid 2px rgb(239, 57, 255);
+    background-color: white;
+}
