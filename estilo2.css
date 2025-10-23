@@ -1,0 +1,26 @@
+h2{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+body{
+    margin-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: green;
+}
+li{
+    border-radius: 10px;
+    display: inline-block;
+}
+ul li.prueba{
+    color: black;
+    background-color: aliceblue;
+}
+ol li.prueba2{
+    color: red;
+    background-color: black;
+}
